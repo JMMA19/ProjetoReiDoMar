@@ -1,0 +1,827 @@
+Begin Object Class=/Script/Engine.Material Name="M_ky_shockwave07"
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDepthFade Name="MaterialExpressionDepthFade_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_40"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionOneMinus Name="MaterialExpressionOneMinus_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_45"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_44"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_39"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_5"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant2Vector Name="MaterialExpressionConstant2Vector_4"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_52"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_51"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_43"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_24"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_42"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionPower Name="MaterialExpressionPower_24"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_40"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionPower Name="MaterialExpressionPower_22"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_47"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_46"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_45"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSubtract Name="MaterialExpressionSubtract_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_23"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_22"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_13"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_37"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_36"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionPanner Name="MaterialExpressionPanner_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_44"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_39"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionPower Name="MaterialExpressionPower_21"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_38"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_34"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_33"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_32"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionClamp Name="MaterialExpressionClamp_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_37"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_35"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_34"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_43"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_21"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_42"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionPower Name="MaterialExpressionPower_20"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_41"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_40"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_11"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionPower Name="MaterialExpressionPower_19"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_39"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionPanner Name="MaterialExpressionPanner_7"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_30"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_9"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionPower Name="MaterialExpressionPower_18"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_38"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_10"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionPanner Name="MaterialExpressionPanner_6"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionParticleColor Name="MaterialExpressionParticleColor_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_8"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_14"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_12"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_10"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_2"
+      A=(Expression=MaterialExpressionVectorParameter'"M_ky_shockwave07:MaterialExpressionVectorParameter_14"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionAdd'"M_ky_shockwave07:MaterialExpressionAdd_39"')
+      Alpha=(Expression=MaterialExpressionPower'"M_ky_shockwave07:MaterialExpressionPower_18"')
+      MaterialExpressionEditorX=64
+      MaterialExpressionEditorY=800
+      MaterialExpressionGuid=6EF419153E4122F120B5EE8DE42028BB
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionDepthFade_2"
+      InOpacity=(Expression=MaterialExpressionMultiply'"M_ky_shockwave07:MaterialExpressionMultiply_47"')
+      MaterialExpressionEditorX=80
+      MaterialExpressionEditorY=288
+      MaterialExpressionGuid=E07976E26E44B3B9C3C1A2A009035A96
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_14"
+      DefaultValue=(R=0.000000,G=0.000000,B=0.000000,A=1.000000)
+      ParameterName="lowLightColor"
+      ExpressionGUID=58205D0A3F460B7A0D73C9AD6A2070FB
+      MaterialExpressionEditorX=-240
+      MaterialExpressionEditorY=592
+      MaterialExpressionGuid=B0C628B5894C0F7E1D2D3FA9B1617CFF
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_40"
+      A=(Expression=MaterialExpressionPower'"M_ky_shockwave07:MaterialExpressionPower_18"')
+      B=(Expression=MaterialExpressionOneMinus'"M_ky_shockwave07:MaterialExpressionOneMinus_8"')
+      MaterialExpressionEditorX=-336
+      MaterialExpressionEditorY=304
+      MaterialExpressionGuid=02BF4899EA4821549248D1BA15491F49
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionOneMinus_8"
+      Input=(Expression=MaterialExpressionPower'"M_ky_shockwave07:MaterialExpressionPower_18"')
+      MaterialExpressionEditorX=-512
+      MaterialExpressionEditorY=384
+      MaterialExpressionGuid=FB931B83F946E0483E812F85FD048995
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_45"
+      DefaultValue=10.000000
+      ParameterName="topMaskPower"
+      ExpressionGUID=2AA91228934621ABBD7E5B93BA650106
+      MaterialExpressionEditorX=-1104
+      MaterialExpressionEditorY=1104
+      MaterialExpressionGuid=4A9A0C2B4E4A04663DE3CCB829E5BF40
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_44"
+      DefaultValue=4.000000
+      ParameterName="topMaskDensity"
+      ExpressionGUID=DC33EC82E244FABD853D73BE5B2217D4
+      MaterialExpressionEditorX=-1296
+      MaterialExpressionEditorY=1088
+      MaterialExpressionGuid=4A9A0C2B4E4A04663DE3CCB829E5BF40
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_39"
+      A=(Expression=MaterialExpressionMultiply'"M_ky_shockwave07:MaterialExpressionMultiply_52"')
+      B=(Expression=MaterialExpressionMultiply'"M_ky_shockwave07:MaterialExpressionMultiply_40"')
+      MaterialExpressionEditorX=-672
+      MaterialExpressionEditorY=544
+      MaterialExpressionGuid=2B6199C82341AC9794AFCCA922A101D0
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_5"
+      R=0.200000
+      G=0.300000
+      MaterialExpressionEditorX=-1616
+      MaterialExpressionEditorY=-240
+      MaterialExpressionGuid=FBB905B1FA4EB99D95A03FA1BC34DD2C
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant2Vector_4"
+      R=-0.200000
+      G=0.200000
+      MaterialExpressionEditorX=-1584
+      MaterialExpressionEditorY=-336
+      MaterialExpressionGuid=FA82756C8A485FBF1E3C0E8C373DEC34
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_13"
+      DefaultValue=(R=0.122167,G=1.000000,B=0.716081,A=1.000000)
+      ParameterName="hilightColor"
+      ExpressionGUID=BF6BC8A708419BA37579C48C0CF94C6E
+      MaterialExpressionEditorX=-1216
+      MaterialExpressionEditorY=-16
+      MaterialExpressionGuid=9C29B303B2495CBD6262F8AFFC1E3A2F
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_52"
+      A=(Expression=MaterialExpressionMultiply'"M_ky_shockwave07:MaterialExpressionMultiply_51"')
+      B=(Expression=MaterialExpressionVectorParameter'"M_ky_shockwave07:MaterialExpressionVectorParameter_13"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=-960
+      MaterialExpressionEditorY=-80
+      MaterialExpressionGuid=6D249AF03643311BA065739E3D24BF09
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_51"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'"M_ky_shockwave07:MaterialExpressionMaterialFunctionCall_24"')
+      B=(Expression=MaterialExpressionPower'"M_ky_shockwave07:MaterialExpressionPower_24"')
+      MaterialExpressionEditorX=-1104
+      MaterialExpressionEditorY=-256
+      MaterialExpressionGuid=7913761F42499623C4AC119211775A6F
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_43"
+      DefaultValue=120.000000
+      ParameterName="hilightColor"
+      ExpressionGUID=759E18A94940F8D77941F4B6DAB714F9
+      MaterialExpressionEditorX=-1632
+      MaterialExpressionEditorY=-144
+      MaterialExpressionGuid=EA7D529E5645ECDB6BBEA2B57810A1A1
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_24"
+      MaterialFunction=MaterialFunction'"/Game/AdvancedMagicFX12/Materials/Mfunction/MF_ky_addHilight.MF_ky_addHilight"'
+      FunctionInputs(0)=(ExpressionInputId=B9E5725C7A4BA30FB11177827ECA8B15,Input=(OutputIndex=-1,InputName="noiseTex"))
+      FunctionInputs(1)=(ExpressionInputId=86BB14A5234BFDB3409F41943EF0261A,Input=(Expression=MaterialExpressionConstant2Vector'"M_ky_shockwave07:MaterialExpressionConstant2Vector_4"',InputName="noiseSpdA"))
+      FunctionInputs(2)=(ExpressionInputId=4B9A7A55D4465ED1329E87B20E5C4E12,Input=(Expression=MaterialExpressionConstant2Vector'"M_ky_shockwave07:MaterialExpressionConstant2Vector_5"',InputName="noiseSpdB"))
+      FunctionInputs(3)=(ExpressionInputId=50BE9E2B43467B6C6AEAA78810D3689C,Input=(OutputIndex=-1,InputName="texCord"))
+      FunctionInputs(4)=(ExpressionInputId=541DBB6EA9493CFB1BD24E9540335D9A,Input=(Expression=MaterialExpressionScalarParameter'"M_ky_shockwave07:MaterialExpressionScalarParameter_43"',InputName="hilightPower"))
+      FunctionOutputs(0)=(ExpressionOutputId=1810281E5A4FF8129E0254AEFAF1011C,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=-1456
+      MaterialExpressionEditorY=-272
+      MaterialExpressionGuid=CAFE94BE8A4B4BF0C8624886AA5EF468
+      Material=Material'"M_ky_shockwave07"'
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_42"
+      DefaultValue=1.500000
+      ParameterName="hilightColorDensity"
+      ExpressionGUID=4F0BB6076C401AF76093ADAA3D2F31F5
+      MaterialExpressionEditorX=-1504
+      MaterialExpressionEditorY=32
+      MaterialExpressionGuid=9A91ACEBF44A09AC08A380AA5C38000B
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionPower_24"
+      Base=(Expression=MaterialExpressionTextureSample'"M_ky_shockwave07:MaterialExpressionTextureSample_8"',OutputIndex=1,Mask=1,MaskR=1)
+      Exponent=(Expression=MaterialExpressionScalarParameter'"M_ky_shockwave07:MaterialExpressionScalarParameter_42"')
+      MaterialExpressionEditorX=-1200
+      MaterialExpressionEditorY=-160
+      MaterialExpressionGuid=B45911D01A431ECA1844248E845F8FF8
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_40"
+      DefaultValue=0.800000
+      ParameterName="baseColorDensity"
+      ExpressionGUID=B378E066CA4C92E887E82C9D9A085082
+      MaterialExpressionEditorX=-1184
+      MaterialExpressionEditorY=464
+      MaterialExpressionGuid=9A91ACEBF44A09AC08A380AA5C38000B
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionPower_22"
+      Base=(Expression=MaterialExpressionTextureSample'"M_ky_shockwave07:MaterialExpressionTextureSample_8"',OutputIndex=1,Mask=1,MaskR=1)
+      Exponent=(Expression=MaterialExpressionScalarParameter'"M_ky_shockwave07:MaterialExpressionScalarParameter_40"')
+      MaterialExpressionEditorX=-992
+      MaterialExpressionEditorY=400
+      MaterialExpressionGuid=1A7C426FD44DB1E6719721AA5EE594C1
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_47"
+      A=(Expression=MaterialExpressionMultiply'"M_ky_shockwave07:MaterialExpressionMultiply_38"')
+      B=(Expression=MaterialExpressionMultiply'"M_ky_shockwave07:MaterialExpressionMultiply_42"')
+      MaterialExpressionEditorX=-80
+      MaterialExpressionEditorY=384
+      MaterialExpressionGuid=7216A09FD84FC236D75A78AC7E334CD3
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_46"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'"M_ky_shockwave07:MaterialExpressionMaterialFunctionCall_22"',OutputIndex=1)
+      ConstB=8.000000
+      MaterialExpressionEditorX=-1312
+      MaterialExpressionEditorY=1744
+      MaterialExpressionGuid=2E2790F062455B707D65408E6BAD7F3B
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_12"
+      Input=(Expression=MaterialExpressionMultiply'"M_ky_shockwave07:MaterialExpressionMultiply_46"')
+      MaterialExpressionEditorX=-1104
+      MaterialExpressionEditorY=1760
+      MaterialExpressionGuid=DBE1B0269049C2C520C0699AD56BB19A
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_11"
+      Input=(Expression=MaterialExpressionMultiply'"M_ky_shockwave07:MaterialExpressionMultiply_45"')
+      MaterialExpressionEditorX=-1136
+      MaterialExpressionEditorY=1424
+      MaterialExpressionGuid=36AC1425D5431AEA38256794DF833199
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_45"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'"M_ky_shockwave07:MaterialExpressionMaterialFunctionCall_23"',OutputIndex=1)
+      ConstB=20.000000
+      MaterialExpressionEditorX=-1312
+      MaterialExpressionEditorY=1424
+      MaterialExpressionGuid=8C5DD289FA4BE1085CBA3D8F3486F84B
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionSubtract_3"
+      A=(Expression=MaterialExpressionClamp'"M_ky_shockwave07:MaterialExpressionClamp_11"')
+      B=(Expression=MaterialExpressionClamp'"M_ky_shockwave07:MaterialExpressionClamp_12"')
+      ConstB=0.000000
+      MaterialExpressionEditorX=-800
+      MaterialExpressionEditorY=1664
+      MaterialExpressionGuid=19C05C6D4C44FB832F277EBBAFFE1F6D
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_23"
+      MaterialFunction=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.LinearGradient"'
+      FunctionInputs(0)=(ExpressionInputId=956846354D2549E665DAC68533EC21EC,Input=(Expression=MaterialExpressionAdd'"M_ky_shockwave07:MaterialExpressionAdd_34"',InputName="UV Channel"))
+      FunctionOutputs(0)=(ExpressionOutputId=0F11154B443B1137CC9914998FC01F5E,Output=(OutputName="UGradient"))
+      FunctionOutputs(1)=(ExpressionOutputId=D0E9AADC4F9EEDBBFD95F9B3A5165013,Output=(OutputName="VGradient"))
+      MaterialExpressionEditorX=-1632
+      MaterialExpressionEditorY=1392
+      MaterialExpressionGuid=4EE7AEF12046370414BB2594707D4A5D
+      Material=Material'"M_ky_shockwave07"'
+      Outputs(0)=(OutputName="UGradient")
+      Outputs(1)=(OutputName="VGradient")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_22"
+      MaterialFunction=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.LinearGradient"'
+      FunctionInputs(0)=(ExpressionInputId=956846354D2549E665DAC68533EC21EC,Input=(Expression=MaterialExpressionAdd'"M_ky_shockwave07:MaterialExpressionAdd_33"',InputName="UV Channel"))
+      FunctionOutputs(0)=(ExpressionOutputId=0F11154B443B1137CC9914998FC01F5E,Output=(OutputName="UGradient"))
+      FunctionOutputs(1)=(ExpressionOutputId=D0E9AADC4F9EEDBBFD95F9B3A5165013,Output=(OutputName="VGradient"))
+      MaterialExpressionEditorX=-1648
+      MaterialExpressionEditorY=1728
+      MaterialExpressionGuid=4EE7AEF12046370414BB2594707D4A5D
+      Material=Material'"M_ky_shockwave07"'
+      Outputs(0)=(OutputName="UGradient")
+      Outputs(1)=(OutputName="VGradient")
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_13"
+      MaterialExpressionEditorX=-2192
+      MaterialExpressionEditorY=1712
+      MaterialExpressionGuid=21A2D9154A4073D1F0F963A736394044
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_37"
+      A=(Expression=MaterialExpressionAppendVector'"M_ky_shockwave07:MaterialExpressionAppendVector_12"')
+      B=(Expression=MaterialExpressionTextureCoordinate'"M_ky_shockwave07:MaterialExpressionTextureCoordinate_13"')
+      MaterialExpressionEditorX=-1984
+      MaterialExpressionEditorY=1552
+      MaterialExpressionGuid=A61874BFB54025FEA065E88D24E07ADE
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_12"
+      A=(Expression=MaterialExpressionConstant'"M_ky_shockwave07:MaterialExpressionConstant_12"')
+      B=(Expression=MaterialExpressionScalarParameter'"M_ky_shockwave07:MaterialExpressionScalarParameter_37"')
+      MaterialExpressionEditorX=-2176
+      MaterialExpressionEditorY=1600
+      MaterialExpressionGuid=2B554C572446F87ECD822AB081683110
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_12"
+      R=1.000000
+      MaterialExpressionEditorX=-2560
+      MaterialExpressionEditorY=1600
+      MaterialExpressionGuid=7F58A8A7794F1CD1FCDB60802E19036D
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_11"
+      A=(Expression=MaterialExpressionConstant'"M_ky_shockwave07:MaterialExpressionConstant_12"')
+      B=(Expression=MaterialExpressionScalarParameter'"M_ky_shockwave07:MaterialExpressionScalarParameter_37"')
+      MaterialExpressionEditorX=-2096
+      MaterialExpressionEditorY=1840
+      MaterialExpressionGuid=2B554C572446F87ECD822AB081683110
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_36"
+      A=(Expression=MaterialExpressionTextureCoordinate'"M_ky_shockwave07:MaterialExpressionTextureCoordinate_13"')
+      B=(Expression=MaterialExpressionAppendVector'"M_ky_shockwave07:MaterialExpressionAppendVector_11"')
+      MaterialExpressionEditorX=-1952
+      MaterialExpressionEditorY=1712
+      MaterialExpressionGuid=A61874BFB54025FEA065E88D24E07ADE
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_10"
+      Coordinates=(Expression=MaterialExpressionPanner'"M_ky_shockwave07:MaterialExpressionPanner_8"')
+      Texture=Texture2D'"/Game/AdvancedMagicFX12/anim-materiais/T_ky_noise6.T_ky_noise6"'
+      MaterialExpressionEditorX=-2640
+      MaterialExpressionEditorY=1344
+      MaterialExpressionGuid=93B6AB46C64329E5301101A1C824E961
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_12"
+      MaterialExpressionEditorX=-3120
+      MaterialExpressionEditorY=1360
+      MaterialExpressionGuid=F2AEACF4C640544CE6B37DB0C9F81298
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionPanner_8"
+      Coordinate=(Expression=MaterialExpressionMultiply'"M_ky_shockwave07:MaterialExpressionMultiply_43"')
+      SpeedX=0.200000
+      SpeedY=1.500000
+      MaterialExpressionEditorX=-2800
+      MaterialExpressionEditorY=1344
+      MaterialExpressionGuid=14BE0C32D447939924CF7F846CEA28AA
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_44"
+      A=(Expression=MaterialExpressionPower'"M_ky_shockwave07:MaterialExpressionPower_21"')
+      B=(Expression=MaterialExpressionScalarParameter'"M_ky_shockwave07:MaterialExpressionScalarParameter_39"')
+      ConstB=0.100000
+      MaterialExpressionEditorX=-2000
+      MaterialExpressionEditorY=1328
+      MaterialExpressionGuid=133A2CD730499687C4CAA095EF876272
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_39"
+      DefaultValue=0.200000
+      ParameterName="dissPower"
+      ExpressionGUID=8D5192A486435D3744883E8AEFB856D7
+      MaterialExpressionEditorX=-2144
+      MaterialExpressionEditorY=1408
+      MaterialExpressionGuid=728C134E06493E9C415F11B4E46D0C9B
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionPower_21"
+      Base=(Expression=MaterialExpressionTextureSample'"M_ky_shockwave07:MaterialExpressionTextureSample_10"',OutputIndex=1,Mask=1,MaskR=1)
+      Exponent=(Expression=MaterialExpressionScalarParameter'"M_ky_shockwave07:MaterialExpressionScalarParameter_38"')
+      MaterialExpressionEditorX=-2336
+      MaterialExpressionEditorY=1344
+      MaterialExpressionGuid=18708C6CBC462A244D264E9C7D2A3A45
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_38"
+      DefaultValue=0.500000
+      ParameterName="dissDensity"
+      ExpressionGUID=10C1483293489281F86006AE95876559
+      MaterialExpressionEditorX=-2448
+      MaterialExpressionEditorY=1504
+      MaterialExpressionGuid=728C134E06493E9C415F11B4E46D0C9B
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_34"
+      A=(Expression=MaterialExpressionMultiply'"M_ky_shockwave07:MaterialExpressionMultiply_44"')
+      B=(Expression=MaterialExpressionAdd'"M_ky_shockwave07:MaterialExpressionAdd_37"')
+      MaterialExpressionEditorX=-1760
+      MaterialExpressionEditorY=1408
+      MaterialExpressionGuid=8BB5FE5AC64BA4CED289CA95A2ED8EE8
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_33"
+      A=(Expression=MaterialExpressionMultiply'"M_ky_shockwave07:MaterialExpressionMultiply_44"')
+      B=(Expression=MaterialExpressionAdd'"M_ky_shockwave07:MaterialExpressionAdd_36"')
+      MaterialExpressionEditorX=-1808
+      MaterialExpressionEditorY=1792
+      MaterialExpressionGuid=266877CDE7440B4BFED024A64CAEE715
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_32"
+      A=(Expression=MaterialExpressionSubtract'"M_ky_shockwave07:MaterialExpressionSubtract_3"')
+      B=(Expression=MaterialExpressionClamp'"M_ky_shockwave07:MaterialExpressionClamp_12"')
+      MaterialExpressionEditorX=-544
+      MaterialExpressionEditorY=1840
+      MaterialExpressionGuid=8CF2B195BC49A284E0481BB846C2AF4E
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_10"
+      Input=(Expression=MaterialExpressionMultiply'"M_ky_shockwave07:MaterialExpressionMultiply_41"')
+      MaterialExpressionEditorX=-704
+      MaterialExpressionEditorY=928
+      MaterialExpressionGuid=2CE544462A43BABC9C27C7BC90AAE9C6
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_37"
+      DefaultValue=-0.300000
+      ParameterName="deissYpos"
+      ExpressionGUID=6D3A1040F74EB4A93A938E848212CEE9
+      MaterialExpressionEditorX=-2560
+      MaterialExpressionEditorY=1776
+      MaterialExpressionGuid=48F9C0A9394EC0587FB2998CEC1D9C7D
+      Material=Material'"M_ky_shockwave07"'
+      Desc="dissolve positionY"
+      bCommentBubbleVisible=True
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_35"
+      DefaultValue=4.000000
+      ParameterName="dissTileU"
+      ExpressionGUID=E9DADB9053421D209CF284A2D140D125
+      MaterialExpressionEditorX=-3280
+      MaterialExpressionEditorY=1488
+      MaterialExpressionGuid=685F24F6CF4D92C109BB309C5D201ADD
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_34"
+      DefaultValue=3.000000
+      ParameterName="dissTileV"
+      ExpressionGUID=EDEDB4FE71465B3F507B2A8F71401BA2
+      MaterialExpressionEditorX=-3280
+      MaterialExpressionEditorY=1568
+      MaterialExpressionGuid=685F24F6CF4D92C109BB309C5D201ADD
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_10"
+      A=(Expression=MaterialExpressionScalarParameter'"M_ky_shockwave07:MaterialExpressionScalarParameter_35"')
+      B=(Expression=MaterialExpressionScalarParameter'"M_ky_shockwave07:MaterialExpressionScalarParameter_34"')
+      MaterialExpressionEditorX=-3104
+      MaterialExpressionEditorY=1488
+      MaterialExpressionGuid=BDD6F090644061A44F9E4EBAD445C248
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_43"
+      A=(Expression=MaterialExpressionTextureCoordinate'"M_ky_shockwave07:MaterialExpressionTextureCoordinate_12"')
+      B=(Expression=MaterialExpressionAppendVector'"M_ky_shockwave07:MaterialExpressionAppendVector_10"')
+      MaterialExpressionEditorX=-2960
+      MaterialExpressionEditorY=1376
+      MaterialExpressionGuid=68D2A5FF1246F9091F3438B248ED6FC8
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_21"
+      MaterialFunction=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.LinearGradient"'
+      FunctionInputs(0)=(ExpressionInputId=956846354D2549E665DAC68533EC21EC,Input=(OutputIndex=-1,InputName="UV Channel"))
+      FunctionOutputs(0)=(ExpressionOutputId=0F11154B443B1137CC9914998FC01F5E,Output=(OutputName="UGradient"))
+      FunctionOutputs(1)=(ExpressionOutputId=D0E9AADC4F9EEDBBFD95F9B3A5165013,Output=(OutputName="VGradient"))
+      MaterialExpressionEditorX=-1616
+      MaterialExpressionEditorY=880
+      MaterialExpressionGuid=DF0C3DB652459D44B4B45F86EAAA2B14
+      Material=Material'"M_ky_shockwave07"'
+      Outputs(0)=(OutputName="UGradient")
+      Outputs(1)=(OutputName="VGradient")
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_42"
+      A=(Expression=MaterialExpressionClamp'"M_ky_shockwave07:MaterialExpressionClamp_10"')
+      B=(Expression=MaterialExpressionAdd'"M_ky_shockwave07:MaterialExpressionAdd_32"')
+      MaterialExpressionEditorX=-368
+      MaterialExpressionEditorY=1648
+      MaterialExpressionGuid=FEE2EE18E9454EB7BBBAE88587FEC733
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionPower_20"
+      Base=(Expression=MaterialExpressionMaterialFunctionCall'"M_ky_shockwave07:MaterialExpressionMaterialFunctionCall_21"',OutputIndex=1)
+      Exponent=(Expression=MaterialExpressionScalarParameter'"M_ky_shockwave07:MaterialExpressionScalarParameter_44"')
+      ConstExponent=4.000000
+      MaterialExpressionEditorX=-1104
+      MaterialExpressionEditorY=960
+      MaterialExpressionGuid=06629C0A4743273A2141F298A7855FC9
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_41"
+      A=(Expression=MaterialExpressionPower'"M_ky_shockwave07:MaterialExpressionPower_20"')
+      B=(Expression=MaterialExpressionScalarParameter'"M_ky_shockwave07:MaterialExpressionScalarParameter_45"')
+      ConstB=6.000000
+      MaterialExpressionEditorX=-896
+      MaterialExpressionEditorY=976
+      MaterialExpressionGuid=ABDB308689425F81B8EF1CBAA57E18BC
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_40"
+      A=(Expression=MaterialExpressionPower'"M_ky_shockwave07:MaterialExpressionPower_22"')
+      B=(Expression=MaterialExpressionParticleColor'"M_ky_shockwave07:MaterialExpressionParticleColor_2"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=-864
+      MaterialExpressionEditorY=528
+      MaterialExpressionGuid=019D50FB84416B0AD4B39095CCB66294
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_11"
+      UTiling=2.000000
+      MaterialExpressionEditorX=-2784
+      MaterialExpressionEditorY=320
+      MaterialExpressionGuid=A6944780F34A5EE2599E6C83FD8B8946
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionPower_19"
+      Base=(Expression=MaterialExpressionTextureSample'"M_ky_shockwave07:MaterialExpressionTextureSample_9"',OutputIndex=1,Mask=1,MaskR=1)
+      ConstExponent=1.000000
+      MaterialExpressionEditorX=-2096
+      MaterialExpressionEditorY=336
+      MaterialExpressionGuid=E857C364B44753578F7F12AA6A106B59
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_39"
+      A=(Expression=MaterialExpressionPower'"M_ky_shockwave07:MaterialExpressionPower_19"')
+      MaterialExpressionEditorX=-1904
+      MaterialExpressionEditorY=336
+      MaterialExpressionGuid=AF6CB204D24313B9A88D6897C673A41A
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionPanner_7"
+      Coordinate=(Expression=MaterialExpressionTextureCoordinate'"M_ky_shockwave07:MaterialExpressionTextureCoordinate_11"')
+      SpeedY=1.000000
+      MaterialExpressionEditorX=-2592
+      MaterialExpressionEditorY=304
+      MaterialExpressionGuid=EC0261FFE540784F50ACF7A12004154E
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_30"
+      A=(Expression=MaterialExpressionPanner'"M_ky_shockwave07:MaterialExpressionPanner_6"')
+      B=(Expression=MaterialExpressionMultiply'"M_ky_shockwave07:MaterialExpressionMultiply_39"')
+      MaterialExpressionEditorX=-1680
+      MaterialExpressionEditorY=224
+      MaterialExpressionGuid=16C5A964F5446B79DBFF1A97DDDE5A72
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_9"
+      Coordinates=(Expression=MaterialExpressionPanner'"M_ky_shockwave07:MaterialExpressionPanner_7"')
+      Texture=Texture2D'"/Game/AdvancedMagicFX12/anim-materiais/T_ky_noise4.T_ky_noise4"'
+      MaterialExpressionEditorX=-2384
+      MaterialExpressionEditorY=304
+      MaterialExpressionGuid=0B834B746A40113B4EA273BB1F140C26
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionPower_18"
+      Base=(Expression=MaterialExpressionTextureSample'"M_ky_shockwave07:MaterialExpressionTextureSample_8"',OutputIndex=1,Mask=1,MaskR=1)
+      MaterialExpressionEditorX=-960
+      MaterialExpressionEditorY=224
+      MaterialExpressionGuid=9DE1B895904AE090ED5B5DBD14A44B43
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_38"
+      A=(Expression=MaterialExpressionAdd'"M_ky_shockwave07:MaterialExpressionAdd_40"')
+      B=(Expression=MaterialExpressionParticleColor'"M_ky_shockwave07:MaterialExpressionParticleColor_2"',OutputIndex=4,Mask=1,MaskA=1)
+      MaterialExpressionEditorX=-192
+      MaterialExpressionEditorY=224
+      MaterialExpressionGuid=5EAB9D6554426F9FC5FEC387EC7F8EF9
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_10"
+      VTiling=2.000000
+      MaterialExpressionEditorX=-2144
+      MaterialExpressionEditorY=144
+      MaterialExpressionGuid=EE24F4F4C04B69A772C1E28C8CCECD10
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionPanner_6"
+      Coordinate=(Expression=MaterialExpressionTextureCoordinate'"M_ky_shockwave07:MaterialExpressionTextureCoordinate_10"')
+      SpeedY=1.000000
+      MaterialExpressionEditorX=-1888
+      MaterialExpressionEditorY=144
+      MaterialExpressionGuid=D1E4B749514158D87316E19B3AD54958
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionParticleColor_2"
+      MaterialExpressionEditorX=-1104
+      MaterialExpressionEditorY=576
+      MaterialExpressionGuid=7F0802431840CBAE535DF8AC55AEB6AE
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_8"
+      Coordinates=(Expression=MaterialExpressionAdd'"M_ky_shockwave07:MaterialExpressionAdd_30"')
+      Texture=Texture2D'"/Game/AdvancedMagicFX12/anim-materiais/T_ky_noise16.T_ky_noise16"'
+      SamplerType=SAMPLERTYPE_LinearColor
+      MaterialExpressionEditorX=-1520
+      MaterialExpressionEditorY=240
+      MaterialExpressionGuid=0B834B746A40113B4EA273BB1F140C26
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_14"
+      SizeX=1184
+      SizeY=416
+      Text="mask to top"
+      MaterialExpressionEditorX=-1632
+      MaterialExpressionEditorY=800
+      MaterialExpressionGuid=2F1EDBC91448A34BAC54A6A0FD11EC78
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_12"
+      SizeX=2247
+      SizeY=1166
+      Text="color base"
+      MaterialExpressionEditorX=-2848
+      MaterialExpressionEditorY=-384
+      MaterialExpressionGuid=6784E999B841DE767FE9E1BA3DE34E5F
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="MaterialExpressionComment_10"
+      SizeX=3184
+      SizeY=720
+      Text="dissolve to top"
+      MaterialExpressionEditorX=-3392
+      MaterialExpressionEditorY=1264
+      MaterialExpressionGuid=7B841558084B34C78E5EC49E7686A99C
+      Material=Material'"M_ky_shockwave07"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   EmissiveColor=(Expression=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_2"')
+   Opacity=(Expression=MaterialExpressionDepthFade'"MaterialExpressionDepthFade_2"')
+   BlendMode=BLEND_Translucent
+   ShadingModel=MSM_Unlit
+   ShadingModels=(ShadingModelField=1)
+   TwoSided=True
+   bUsedWithParticleSprites=True
+   bUsedWithMeshParticles=True
+   EditorX=528
+   EditorY=336
+   Expressions(0)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_2"'
+   Expressions(1)=MaterialExpressionDepthFade'"MaterialExpressionDepthFade_2"'
+   Expressions(2)=MaterialExpressionVectorParameter'"MaterialExpressionVectorParameter_14"'
+   Expressions(3)=MaterialExpressionAdd'"MaterialExpressionAdd_40"'
+   Expressions(4)=MaterialExpressionOneMinus'"MaterialExpressionOneMinus_8"'
+   Expressions(5)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_45"'
+   Expressions(6)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_44"'
+   Expressions(7)=MaterialExpressionAdd'"MaterialExpressionAdd_39"'
+   Expressions(8)=MaterialExpressionConstant2Vector'"MaterialExpressionConstant2Vector_5"'
+   Expressions(9)=MaterialExpressionConstant2Vector'"MaterialExpressionConstant2Vector_4"'
+   Expressions(10)=MaterialExpressionVectorParameter'"MaterialExpressionVectorParameter_13"'
+   Expressions(11)=MaterialExpressionMultiply'"MaterialExpressionMultiply_52"'
+   Expressions(12)=MaterialExpressionMultiply'"MaterialExpressionMultiply_51"'
+   Expressions(13)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_43"'
+   Expressions(14)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_24"'
+   Expressions(15)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_42"'
+   Expressions(16)=MaterialExpressionPower'"MaterialExpressionPower_24"'
+   Expressions(17)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_40"'
+   Expressions(18)=MaterialExpressionPower'"MaterialExpressionPower_22"'
+   Expressions(19)=MaterialExpressionMultiply'"MaterialExpressionMultiply_47"'
+   Expressions(20)=MaterialExpressionMultiply'"MaterialExpressionMultiply_46"'
+   Expressions(21)=MaterialExpressionClamp'"MaterialExpressionClamp_12"'
+   Expressions(22)=MaterialExpressionClamp'"MaterialExpressionClamp_11"'
+   Expressions(23)=MaterialExpressionMultiply'"MaterialExpressionMultiply_45"'
+   Expressions(24)=MaterialExpressionSubtract'"MaterialExpressionSubtract_3"'
+   Expressions(25)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_23"'
+   Expressions(26)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_22"'
+   Expressions(27)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_13"'
+   Expressions(28)=MaterialExpressionAdd'"MaterialExpressionAdd_37"'
+   Expressions(29)=MaterialExpressionAppendVector'"MaterialExpressionAppendVector_12"'
+   Expressions(30)=MaterialExpressionConstant'"MaterialExpressionConstant_12"'
+   Expressions(31)=MaterialExpressionAppendVector'"MaterialExpressionAppendVector_11"'
+   Expressions(32)=MaterialExpressionAdd'"MaterialExpressionAdd_36"'
+   Expressions(33)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_10"'
+   Expressions(34)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_12"'
+   Expressions(35)=MaterialExpressionPanner'"MaterialExpressionPanner_8"'
+   Expressions(36)=MaterialExpressionMultiply'"MaterialExpressionMultiply_44"'
+   Expressions(37)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_39"'
+   Expressions(38)=MaterialExpressionPower'"MaterialExpressionPower_21"'
+   Expressions(39)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_38"'
+   Expressions(40)=MaterialExpressionAdd'"MaterialExpressionAdd_34"'
+   Expressions(41)=MaterialExpressionAdd'"MaterialExpressionAdd_33"'
+   Expressions(42)=MaterialExpressionAdd'"MaterialExpressionAdd_32"'
+   Expressions(43)=MaterialExpressionClamp'"MaterialExpressionClamp_10"'
+   Expressions(44)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_37"'
+   Expressions(45)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_35"'
+   Expressions(46)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_34"'
+   Expressions(47)=MaterialExpressionAppendVector'"MaterialExpressionAppendVector_10"'
+   Expressions(48)=MaterialExpressionMultiply'"MaterialExpressionMultiply_43"'
+   Expressions(49)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_21"'
+   Expressions(50)=MaterialExpressionMultiply'"MaterialExpressionMultiply_42"'
+   Expressions(51)=MaterialExpressionPower'"MaterialExpressionPower_20"'
+   Expressions(52)=MaterialExpressionMultiply'"MaterialExpressionMultiply_41"'
+   Expressions(53)=MaterialExpressionMultiply'"MaterialExpressionMultiply_40"'
+   Expressions(54)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_11"'
+   Expressions(55)=MaterialExpressionPower'"MaterialExpressionPower_19"'
+   Expressions(56)=MaterialExpressionMultiply'"MaterialExpressionMultiply_39"'
+   Expressions(57)=MaterialExpressionPanner'"MaterialExpressionPanner_7"'
+   Expressions(58)=MaterialExpressionAdd'"MaterialExpressionAdd_30"'
+   Expressions(59)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_9"'
+   Expressions(60)=MaterialExpressionPower'"MaterialExpressionPower_18"'
+   Expressions(61)=MaterialExpressionMultiply'"MaterialExpressionMultiply_38"'
+   Expressions(62)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_10"'
+   Expressions(63)=MaterialExpressionPanner'"MaterialExpressionPanner_6"'
+   Expressions(64)=MaterialExpressionParticleColor'"MaterialExpressionParticleColor_2"'
+   Expressions(65)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_8"'
+   EditorComments(0)=MaterialExpressionComment'"MaterialExpressionComment_14"'
+   EditorComments(1)=MaterialExpressionComment'"MaterialExpressionComment_12"'
+   EditorComments(2)=MaterialExpressionComment'"MaterialExpressionComment_10"'
+   ParameterGroupData(0)=(GroupName="None")
+   ParameterGroupData(1)=(GroupName="None")
+   ParameterGroupData(2)=(GroupName="None")
+   ParameterGroupData(3)=(GroupName="None")
+   ParameterGroupData(4)=(GroupName="None")
+   ParameterGroupData(5)=(GroupName="None")
+   ParameterGroupData(6)=(GroupName="None")
+   ParameterGroupData(7)=(GroupName="None")
+   ParameterGroupData(8)=(GroupName="None")
+   ParameterGroupData(9)=(GroupName="None")
+   ParameterGroupData(10)=(GroupName="None")
+   ParameterGroupData(11)=(GroupName="None")
+   bCanMaskedBeAssumedOpaque=True
+   StateId=57934EAC4BED39B826E5B3BD5B74EA7D
+   CachedExpressionData=(Parameters=(RuntimeEntries[0]=(NameHashes=(2498563622480166934,6968759781004052911,11138533344732666624,11648295223127710974,12642876295106689625,15530939311032486801,15608883017949796530,16471997810942787802,17163163427537688725,18104785344223243800),ParameterInfos=((Name="baseColorDensity"),(Name="dissTileV"),(Name="hilightColor"),(Name="dissPower"),(Name="topMaskDensity"),(Name="hilightColorDensity"),(Name="dissTileU"),(Name="dissDensity"),(Name="deissYpos"),(Name="topMaskPower")),ExpressionGuids=(B378E066CA4C92E887E82C9D9A085082,EDEDB4FE71465B3F507B2A8F71401BA2,759E18A94940F8D77941F4B6DAB714F9,8D5192A486435D3744883E8AEFB856D7,DC33EC82E244FABD853D73BE5B2217D4,4F0BB6076C401AF76093ADAA3D2F31F5,E9DADB9053421D209CF284A2D140D125,10C1483293489281F86006AE95876559,6D3A1040F74EB4A93A938E848212CEE9,2AA91228934621ABBD7E5B93BA650106),Overrides=(False,False,False,False,False,False,False,False,False,False)),RuntimeEntries[1]=(NameHashes=(9353051772304417619,11138533344732666624),ParameterInfos=((Name="lowLightColor"),(Name="hilightColor")),ExpressionGuids=(58205D0A3F460B7A0D73C9AD6A2070FB,BF6BC8A708419BA37579C48C0CF94C6E),Overrides=(False,False)),ScalarValues=(0.800000,3.000000,120.000000,0.200000,4.000000,1.500000,4.000000,0.500000,-0.300000,10.000000),VectorValues=((R=0.000000,G=0.000000,B=0.000000,A=1.000000),(R=0.122167,G=1.000000,B=0.716081,A=1.000000)),ScalarMinMaxValues=((X=0.000000,Y=0.000000),(X=0.000000,Y=0.000000),(X=0.000000,Y=0.000000),(X=0.000000,Y=0.000000),(X=0.000000,Y=0.000000),(X=0.000000,Y=0.000000),(X=0.000000,Y=0.000000),(X=0.000000,Y=0.000000),(X=0.000000,Y=0.000000),(X=0.000000,Y=0.000000)),ScalarCurveValues=(None,None,None,None,None,None,None,None,None,None),ScalarCurveAtlasValues=(None,None,None,None,None,None,None,None,None,None),VectorChannelNameValues=((),()),VectorUsedAsChannelMaskValues=(False,False)),ReferencedTextures=(Texture2D'"/Engine/EngineResources/DefaultTexture.DefaultTexture"',Texture2D'"/Game/AdvancedMagicFX12/Textures/T_ky_maskRGB3.T_ky_maskRGB3"',Texture2D'"/Game/AdvancedMagicFX12/anim-materiais/T_ky_noise6.T_ky_noise6"',Texture2D'"/Game/AdvancedMagicFX12/anim-materiais/T_ky_noise4.T_ky_noise4"',Texture2D'"/Game/AdvancedMagicFX12/anim-materiais/T_ky_noise16.T_ky_noise16"'),FunctionInfos=((StateId=E3DB12AB634ADF9F657F15847AD6D18F,Function=MaterialFunction'"/Game/AdvancedMagicFX12/Materials/Mfunction/MF_ky_addHilight.MF_ky_addHilight"'),(StateId=B7C71B914E2BB667772D6CBE2AB55665,Function=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.LinearGradient"'),(StateId=B7C71B914E2BB667772D6CBE2AB55665,Function=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.LinearGradient"'),(StateId=B7C71B914E2BB667772D6CBE2AB55665,Function=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.LinearGradient"')),QualityLevelsUsed=(False,False,False,False))
+   ReferencedTextureGuids(0)=9B985ACE754DB0711980E8846FD3C975
+   ReferencedTextureGuids(1)=036BEEC6AE43595BFF8F7B8F7426550A
+   ReferencedTextureGuids(2)=2326CB657446C47C7329FA94F230CE6C
+   ReferencedTextureGuids(3)=CBB70BB2804FBB3856F7E49E78D6BCF6
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_ky_maskRGB3",TextureReference=/Game/AdvancedMagicFX12/Textures/T_ky_maskRGB3.T_ky_maskRGB3)
+   TextureStreamingData(1)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_ky_noise4",TextureReference=/Game/AdvancedMagicFX12/anim-materiais/T_ky_noise4.T_ky_noise4)
+   TextureStreamingData(2)=(SamplingScale=3.000000,UVChannelIndex=0,TextureName="T_ky_noise6",TextureReference=/Game/AdvancedMagicFX12/anim-materiais/T_ky_noise6.T_ky_noise6)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   ParameterOverviewExpansion=(("-12Global", True))
+   LightingGuid=96A05E6741FD5D08E89EBD9E99A9AB92
+End Object

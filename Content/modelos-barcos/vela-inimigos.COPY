@@ -1,0 +1,16 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="vela-inimigos"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=C448720C442143F8EB815E96944517EE
+   Parent=Material'"/Game/modelo-navio/vela.vela"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="rasgados"),ParameterValue=5.000000,ExpressionGUID=960EC09D402373963CAA67AE7942F51E)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterInfo=(Name="Param"),ParameterValue=(R=1.000000,G=0.000000,B=0.025802,A=0.000000),ExpressionGUID=C1B833BC4A1A1DE58A5300AEC1C86295)
+   BasePropertyOverrides=(TwoSided=True,BlendMode=BLEND_Masked,OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=EAC12B354A0313A69ECA649E799F7EF9
+   CachedReferencedTextures(0)=Texture2D'"/Game/materiais-mapas/mar-espec.mar-espec"'
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=FBA377714DDD90A12D17ADA1F4189C2A
+End Object

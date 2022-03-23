@@ -1,0 +1,118 @@
+Begin Object Class=/Script/Engine.Material Name="vela"
+   Begin Object Class=/Script/Engine.MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_0"
+      MaterialFunction=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.SimpleGrassWind"'
+      FunctionInputs(0)=(ExpressionInputId=59B25CA344057CBC047826BBB081BB6A,Input=(Expression=MaterialExpressionScalarParameter'"vela:MaterialExpressionScalarParameter_1"',InputName="WindIntensity"))
+      FunctionInputs(1)=(ExpressionInputId=9F127867429E94C853245BA415B9133D,Input=(Expression=MaterialExpressionScalarParameter'"vela:MaterialExpressionScalarParameter_1"',InputName="WindWeight"))
+      FunctionInputs(2)=(ExpressionInputId=B142CFD84EFE5357F8C6E6A44E070E4D,Input=(OutputIndex=-1,InputName="WindSpeed"))
+      FunctionInputs(3)=(ExpressionInputId=12C80829425389C3EE47AC97BD178E9D,Input=(Expression=MaterialExpressionScalarParameter'"vela:MaterialExpressionScalarParameter_2"',InputName="AdditionalWPO"))
+      FunctionOutputs(0)=(ExpressionOutputId=786F77A7413AC09BF7F84581E91EE756,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=-80
+      MaterialExpressionEditorY=320
+      MaterialExpressionGuid=F6B75E26452D9DF25A5FE3BD36A5D5DE
+      Material=Material'"vela"'
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0"
+      A=(Expression=MaterialExpressionTextureSample'"vela:MaterialExpressionTextureSample_0"',OutputIndex=3,Mask=1,MaskB=1)
+      B=(Expression=MaterialExpressionScalarParameter'"vela:MaterialExpressionScalarParameter_3"')
+      MaterialExpressionEditorX=-48
+      MaterialExpressionEditorY=112
+      MaterialExpressionGuid=F2976E3B4C64836AB96ECE8A75AC2B0A
+      Material=Material'"vela"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_0"
+      DefaultValue=4.000000
+      ParameterName="aspereza"
+      ExpressionGUID=AC9EF4C143E6531ADBFCB5B97A2FA83F
+      MaterialExpressionEditorX=-16
+      MaterialExpressionEditorY=-64
+      MaterialExpressionGuid=58E4E57B48BFA5CD05FE85A5C07049A8
+      Material=Material'"vela"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_1"
+      DefaultValue=0.200000
+      ParameterName="instensividade"
+      ExpressionGUID=7F4121324F2A8641EB898D972A8642BA
+      MaterialExpressionEditorX=-272
+      MaterialExpressionEditorY=288
+      MaterialExpressionGuid=574CFD2944C02AAF8DAA02B5A9AD68D1
+      Material=Material'"vela"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_2"
+      ExpressionGUID=E1390BD843484A78F01FD395CF968421
+      MaterialExpressionEditorX=-304
+      MaterialExpressionEditorY=416
+      MaterialExpressionGuid=DBC543CB489D120E3E1C8193091ACD5B
+      Material=Material'"vela"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_3"
+      ParameterName="rasgados"
+      ExpressionGUID=960EC09D402373963CAA67AE7942F51E
+      MaterialExpressionEditorX=-448
+      MaterialExpressionEditorY=176
+      MaterialExpressionGuid=0A48B6C24B807CB05049D4A3E46C19C1
+      Material=Material'"vela"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'"/Game/materiais-mapas/mar-espec.mar-espec"'
+      MaterialExpressionEditorX=-880
+      MaterialExpressionEditorY=-32
+      MaterialExpressionGuid=79381F3B4EAA2C7A8FF01E9D912B3F20
+      Material=Material'"vela"'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.800000,G=0.776146,B=0.591667,A=0.000000)
+      ExpressionGUID=C1B833BC4A1A1DE58A5300AEC1C86295
+      MaterialExpressionEditorX=-240
+      MaterialExpressionEditorY=-144
+      MaterialExpressionGuid=18DABA384F15170B32B89DB64FACA44A
+      Material=Material'"vela"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'"MaterialExpressionVectorParameter_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Roughness=(Expression=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_0"')
+   OpacityMask=(Expression=MaterialExpressionMultiply'"MaterialExpressionMultiply_0"')
+   BlendMode=BLEND_Masked
+   WorldPositionOffset=(Expression=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_0"')
+   TwoSided=True
+   EditorX=224
+   EditorY=16
+   Expressions(0)=MaterialExpressionVectorParameter'"MaterialExpressionVectorParameter_0"'
+   Expressions(1)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_0"'
+   Expressions(2)=MaterialExpressionMultiply'"MaterialExpressionMultiply_0"'
+   Expressions(3)=MaterialExpressionMaterialFunctionCall'"MaterialExpressionMaterialFunctionCall_0"'
+   Expressions(4)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_1"'
+   Expressions(5)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_2"'
+   Expressions(6)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   Expressions(7)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_3"'
+   ParameterGroupData(0)=(GroupName="None")
+   ParameterGroupData(1)=(GroupName="None")
+   ParameterGroupData(2)=(GroupName="None")
+   ParameterGroupData(3)=(GroupName="None")
+   ParameterGroupData(4)=(GroupName="None")
+   StateId=DB1D4F4D418296F9BF9A1CAD14D6E5E3
+   CachedExpressionData=(Parameters=(RuntimeEntries[0]=(NameHashes=(9090382551485249505,10371715421228879687,11940923170671148915,14165827872969338441),ParameterInfos=((Name="rasgados"),(Name="Param"),(Name="instensividade"),(Name="aspereza")),ExpressionGuids=(960EC09D402373963CAA67AE7942F51E,E1390BD843484A78F01FD395CF968421,7F4121324F2A8641EB898D972A8642BA,AC9EF4C143E6531ADBFCB5B97A2FA83F),Overrides=(False,False,False,False)),RuntimeEntries[1]=(NameHashes=(10371715421228879687),ParameterInfos=((Name="Param")),ExpressionGuids=(C1B833BC4A1A1DE58A5300AEC1C86295),Overrides=(False)),ScalarValues=(0.000000,0.000000,0.200000,4.000000),VectorValues=((R=0.800000,G=0.776146,B=0.591667,A=0.000000)),ScalarMinMaxValues=((X=0.000000,Y=0.000000),(X=0.000000,Y=0.000000),(X=0.000000,Y=0.000000),(X=0.000000,Y=0.000000)),ScalarCurveValues=(None,None,None,None),ScalarCurveAtlasValues=(None,None,None,None),VectorChannelNameValues=(()),VectorUsedAsChannelMaskValues=(False)),ReferencedTextures=(Texture2D'"/Game/materiais-mapas/mar-espec.mar-espec"'),FunctionInfos=((StateId=49637CE3497F6537F49E7E9678C0735F,Function=MaterialFunction'"/Engine/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.SimpleGrassWind"')),QualityLevelsUsed=(False,False,False,False))
+   ReferencedTextureGuids(0)=EAC12B354A0313A69ECA649E799F7EF9
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   ParameterOverviewExpansion=(("-12Global", True))
+   LightingGuid=E5A52A9B4B1A0BB6D54518B90A7480F7
+End Object

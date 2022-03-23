@@ -1,0 +1,52 @@
+Begin Object Class=/Script/Engine.Material Name="metal"
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_0"
+      DefaultValue=4.000000
+      ParameterName="metal"
+      ExpressionGUID=9F1225E74B1304388274B895DF408A6F
+      MaterialExpressionEditorY=192
+      MaterialExpressionGuid=E9A828604E55639D1692149DB7EEA4E2
+      Material=Material'"metal"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_1"
+      DefaultValue=0.200000
+      ParameterName="aspero"
+      ExpressionGUID=2889C2F74D1C6E58952DE1A8438167F0
+      MaterialExpressionEditorX=102
+      MaterialExpressionEditorY=386
+      MaterialExpressionGuid=E8EAA03E492D58E39188D79434D0C714
+      Material=Material'"metal"'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.520833,G=0.520833,B=0.520833,A=0.000000)
+      ExpressionGUID=99FE45744C6C27633113008F6EDF0611
+      MaterialExpressionEditorX=-96
+      MaterialExpressionEditorY=-16
+      MaterialExpressionGuid=CB7591534722D960E3F174A91E4A98D7
+      Material=Material'"metal"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'"MaterialExpressionVectorParameter_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Metallic=(Expression=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_0"')
+   Roughness=(Expression=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_1"')
+   EditorX=272
+   Expressions(0)=MaterialExpressionVectorParameter'"MaterialExpressionVectorParameter_0"'
+   Expressions(1)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_0"'
+   Expressions(2)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_1"'
+   ParameterGroupData(0)=(GroupName="None")
+   ParameterGroupData(1)=(GroupName="None")
+   ParameterGroupData(2)=(GroupName="None")
+   bCanMaskedBeAssumedOpaque=True
+   StateId=67D83BF04A301DC473E0E6A8F715FFE7
+   CachedExpressionData=(Parameters=(RuntimeEntries[0]=(NameHashes=(14119742216901507737,18278133136769695944),ParameterInfos=((Name="metal"),(Name="aspero")),ExpressionGuids=(9F1225E74B1304388274B895DF408A6F,2889C2F74D1C6E58952DE1A8438167F0),Overrides=(False,False)),RuntimeEntries[1]=(NameHashes=(10371715421228879687),ParameterInfos=((Name="Param")),ExpressionGuids=(99FE45744C6C27633113008F6EDF0611),Overrides=(False)),ScalarValues=(4.000000,0.200000),VectorValues=((R=0.520833,G=0.520833,B=0.520833,A=0.000000)),ScalarMinMaxValues=((X=0.000000,Y=0.000000),(X=0.000000,Y=0.000000)),ScalarCurveValues=(None,None),ScalarCurveAtlasValues=(None,None),VectorChannelNameValues=(()),VectorUsedAsChannelMaskValues=(False)),QualityLevelsUsed=(False,False,False,False))
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=4E8C57E0482D06B3F982FABD323A964C
+End Object

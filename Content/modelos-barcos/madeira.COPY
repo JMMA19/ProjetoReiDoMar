@@ -1,0 +1,25 @@
+Begin Object Class=/Script/Engine.Material Name="madeira"
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'"/Game/modelo-navio/casco1texture.casco1texture"'
+      MaterialExpressionEditorX=240
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=1E1F988B4E6F76C6E90202902ADAE037
+      Material=Material'"madeira"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithParticleSprites=True
+   bUsedWithMeshParticles=True
+   Expressions(0)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=FBD707DB42297A3B182EDCB8CBC5C2AA
+   CachedExpressionData=(ReferencedTextures=(Texture2D'"/Game/modelo-navio/casco1texture.casco1texture"'),QualityLevelsUsed=(False,False,False,False))
+   ReferencedTextureGuids(0)=209048A94682739689A4F0BA5C172571
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=8A1519184C26E7C0129621A2206490ED
+End Object
